@@ -1,36 +1,22 @@
 # Project Unicorn
 
-A Microsoft IDC initiative focused on innovative solutions and cutting-edge technology development.
+Microsoft IDC project for innovative technology solutions.
 
-## About
-
-Project Unicorn is an early-stage project that aims to deliver scalable, modern solutions. This repository serves as the development hub for the project.
-
-## Getting Started
-
-To get started with Project Unicorn:
+## Setup
 
 ```bash
-# Clone the repository
 git clone https://github.com/msft-idc/unicorn.git
 cd unicorn
 ```
 
-## Contributing
+## Configuration
 
-We welcome contributions to Project Unicorn! To contribute:
+Project settings and configuration will be defined as the project develops.
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/your-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add your feature'`)
-5. Push to the branch (`git push origin feature/your-feature`)
-6. Open a Pull Request
+## Development Environment
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Development environment setup and requirements will be documented here.
 
 ## Contact
 
-For questions or support, please open an issue in this repository.
+For questions, open an issue in this repository.
