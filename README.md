@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Unicorn Banner](https://img.shields.io/badge/🦄-Project%20Unicorn-ff69b4?style=for-the-badge&logoColor=white)
-![Status](https://img.shields.io/badge/Status-🚀%20Active-brightgreen?style=for-the-badge)
-![Magic Level](https://img.shields.io/badge/Magic%20Level-💫%20Legendary-purple?style=for-the-badge)
+![Unicorn Banner](https://img.shields.io/badge/🦄-Project%20Unicorn-4a90e2?style=for-the-badge&logoColor=white)
+![Status](https://img.shields.io/badge/Status-🚀%20Active-2e86de?style=for-the-badge)
+![Magic Level](https://img.shields.io/badge/Magic%20Level-💫%20Legendary-3498db?style=for-the-badge)
 
 </div>
 
@@ -78,7 +78,7 @@ cd unicorn
 
 <div align="center">
 
-![Coming Soon](https://img.shields.io/badge/📖-Documentation%20Coming%20Soon-yellow?style=flat-square)
+![Coming Soon](https://img.shields.io/badge/📖-Documentation%20Coming%20Soon-5dade2?style=flat-square)
 
 </div>
 
@@ -100,8 +100,8 @@ cd unicorn
 
 <div align="center">
 
-![Contributors Welcome](https://img.shields.io/badge/🤝-Contributors%20Welcome-brightgreen?style=for-the-badge)
-![First Timers Only](https://img.shields.io/badge/🌟-First%20Timers%20Friendly-blue?style=for-the-badge)
+![Contributors Welcome](https://img.shields.io/badge/🤝-Contributors%20Welcome-4a90e2?style=for-the-badge)
+![First Timers Only](https://img.shields.io/badge/🌟-First%20Timers%20Friendly-2980b9?style=for-the-badge)
 
 </div>
 
@@ -130,7 +130,7 @@ We welcome contributions from the community! Here's how you can help spread the 
 
 <div align="center">
 
-![Roadmap](https://img.shields.io/badge/🗺️-Project%20Roadmap-ff6b6b?style=for-the-badge)
+![Roadmap](https://img.shields.io/badge/🗺️-Project%20Roadmap-3498db?style=for-the-badge)
 
 </div>
 
@@ -147,7 +147,7 @@ We welcome contributions from the community! Here's how you can help spread the 
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/Progress-🌱%20Just%20Getting%20Started-yellow?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-🌱%20Just%20Getting%20Started-5dade2?style=flat-square)
 
 </div>
 
@@ -155,8 +155,8 @@ We welcome contributions from the community! Here's how you can help spread the 
 
 <div align="center">
 
-![Support](https://img.shields.io/badge/💬-Community%20Support-4CAF50?style=for-the-badge)
-![Response Time](https://img.shields.io/badge/⚡-Fast%20Response-orange?style=for-the-badge)
+![Support](https://img.shields.io/badge/💬-Community%20Support-2e86de?style=for-the-badge)
+![Response Time](https://img.shields.io/badge/⚡-Fast%20Response-4a90e2?style=for-the-badge)
 
 </div>
 
@@ -176,7 +176,7 @@ If you encounter any issues or have questions:
 
 <div align="center">
 
-![License](https://img.shields.io/badge/📜-MIT%20License-green?style=for-the-badge)
+![License](https://img.shields.io/badge/📜-MIT%20License-3498db?style=for-the-badge)
 
 </div>
 
@@ -186,7 +186,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-![Thank You](https://img.shields.io/badge/💖-Thank%20You-ff69b4?style=for-the-badge)
+![Thank You](https://img.shields.io/badge/💖-Thank%20You-2980b9?style=for-the-badge)
 
 </div>
 
@@ -198,7 +198,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-![Contact](https://img.shields.io/badge/📬-Get%20In%20Touch-blue?style=for-the-badge)
+![Contact](https://img.shields.io/badge/📬-Get%20In%20Touch-4a90e2?style=for-the-badge)
 
 </div>
 
@@ -212,7 +212,7 @@ For questions, suggestions, or collaboration opportunities, please reach out thr
 
 <div align="center">
 
-![Made with Magic](https://img.shields.io/badge/Made%20with-🦄%20Unicorn%20Magic-ff1493?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
+![Made with Magic](https://img.shields.io/badge/Made%20with-🦄%20Unicorn%20Magic-2980b9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
 
 **🌟 Spreading magic, one commit at a time 🌟**
 
