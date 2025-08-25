@@ -5,6 +5,7 @@
 ![Unicorn Banner](https://img.shields.io/badge/🦄-Project%20Unicorn-4a90e2?style=for-the-badge&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-🚀%20Active-2e86de?style=for-the-badge)
 ![Magic Level](https://img.shields.io/badge/Magic%20Level-💫%20Legendary-3498db?style=for-the-badge)
+![Report Issue](https://img.shields.io/badge/🚨-Report%20Issue-e74c3c?style=for-the-badge&logoColor=white)
 
 </div>
 
